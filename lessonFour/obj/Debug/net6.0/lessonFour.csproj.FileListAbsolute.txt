@@ -1,0 +1,15 @@
+D:\Project Series\C Master Study\learning essentials\lessonFour\obj\Debug\net6.0\lessonFour.csproj.AssemblyReference.cache
+D:\Project Series\C Master Study\learning essentials\lessonFour\obj\Debug\net6.0\lessonFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Series\C Master Study\learning essentials\lessonFour\obj\Debug\net6.0\lessonFour.AssemblyInfoInputs.cache
+D:\Project Series\C Master Study\learning essentials\lessonFour\obj\Debug\net6.0\lessonFour.AssemblyInfo.cs
+D:\Project Series\C Master Study\learning essentials\lessonFour\obj\Debug\net6.0\lessonFour.csproj.CoreCompileInputs.cache
+D:\Project Series\C Master Study\learning essentials\lessonFour\bin\Debug\net6.0\lessonFour.exe
+D:\Project Series\C Master Study\learning essentials\lessonFour\bin\Debug\net6.0\lessonFour.deps.json
+D:\Project Series\C Master Study\learning essentials\lessonFour\bin\Debug\net6.0\lessonFour.runtimeconfig.json
+D:\Project Series\C Master Study\learning essentials\lessonFour\bin\Debug\net6.0\lessonFour.dll
+D:\Project Series\C Master Study\learning essentials\lessonFour\bin\Debug\net6.0\lessonFour.pdb
+D:\Project Series\C Master Study\learning essentials\lessonFour\obj\Debug\net6.0\lessonFour.dll
+D:\Project Series\C Master Study\learning essentials\lessonFour\obj\Debug\net6.0\refint\lessonFour.dll
+D:\Project Series\C Master Study\learning essentials\lessonFour\obj\Debug\net6.0\lessonFour.pdb
+D:\Project Series\C Master Study\learning essentials\lessonFour\obj\Debug\net6.0\lessonFour.genruntimeconfig.cache
+D:\Project Series\C Master Study\learning essentials\lessonFour\obj\Debug\net6.0\ref\lessonFour.dll

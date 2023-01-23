@@ -1,0 +1,15 @@
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\obj\Debug\net7.0\lessonThreeConditionals.csproj.AssemblyReference.cache
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\obj\Debug\net7.0\lessonThreeConditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\obj\Debug\net7.0\lessonThreeConditionals.AssemblyInfoInputs.cache
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\obj\Debug\net7.0\lessonThreeConditionals.AssemblyInfo.cs
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\obj\Debug\net7.0\lessonThreeConditionals.csproj.CoreCompileInputs.cache
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\bin\Debug\net7.0\lessonThreeConditionals.exe
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\bin\Debug\net7.0\lessonThreeConditionals.deps.json
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\bin\Debug\net7.0\lessonThreeConditionals.runtimeconfig.json
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\bin\Debug\net7.0\lessonThreeConditionals.dll
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\bin\Debug\net7.0\lessonThreeConditionals.pdb
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\obj\Debug\net7.0\lessonThreeConditionals.dll
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\obj\Debug\net7.0\refint\lessonThreeConditionals.dll
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\obj\Debug\net7.0\lessonThreeConditionals.pdb
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\obj\Debug\net7.0\lessonThreeConditionals.genruntimeconfig.cache
+D:\Project Series\C Master Study\learning essentials\lessonThreeConditionals\obj\Debug\net7.0\ref\lessonThreeConditionals.dll
