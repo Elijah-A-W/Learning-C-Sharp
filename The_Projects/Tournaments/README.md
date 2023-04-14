@@ -13,4 +13,4 @@ It handles compliance, performance and security aspects.
 	- Registering Teams,their members and Registration Fees
 	- Tracking the teams progress in terms of Performance
 	- Drafting match or competition rounds 
-	- Updating Teams and Members about tournament progress both SMS & EMAIL
+	- Updating Teams and Members about tournament progress using both SMS & EMAIL
