@@ -1,0 +1,12 @@
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\bin\Debug\net6.0\TournamentTracker.deps.json
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\bin\Debug\net6.0\TournamentTracker.dll
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\bin\Debug\net6.0\TournamentTracker.pdb
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\obj\Debug\net6.0\TournamentTracker.csproj.AssemblyReference.cache
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\obj\Debug\net6.0\TournamentTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\obj\Debug\net6.0\TournamentTracker.AssemblyInfoInputs.cache
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\obj\Debug\net6.0\TournamentTracker.AssemblyInfo.cs
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\obj\Debug\net6.0\TournamentTracker.csproj.CoreCompileInputs.cache
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\obj\Debug\net6.0\TournamentTracker.dll
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\obj\Debug\net6.0\refint\TournamentTracker.dll
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\obj\Debug\net6.0\TournamentTracker.pdb
+D:\Project Series\Project\Learning-C-Sharp\LeagueTracker\TournamentTracker\obj\Debug\net6.0\ref\TournamentTracker.dll
