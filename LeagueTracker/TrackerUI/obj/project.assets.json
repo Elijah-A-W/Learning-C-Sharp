@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "TournamentTracker/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TournamentTracker.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TournamentTracker.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TournamentTracker/1.0.0": {
+      "type": "project",
+      "path": "../TournamentTracker/TournamentTracker.csproj",
+      "msbuildProject": "../TournamentTracker/TournamentTracker.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "TournamentTracker >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Elijah-A-W\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Project Series\\Project\\Learning-C-Sharp\\LeagueTracker\\TournamentTracker\\TournamentTracker.csproj": {
+              "projectPath": "D:\\Project Series\\Project\\Learning-C-Sharp\\LeagueTracker\\TournamentTracker\\TournamentTracker.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
