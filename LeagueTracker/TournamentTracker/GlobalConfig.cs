@@ -8,18 +8,27 @@ namespace TournamentTracker
 {
     public static class GlobalConfig
     {
-        public static List<IDataConnection> Connections { get; private set; }
+        /// <summary>
+        ///     Created a connections list(Connections) that 
+        ///     helps to hold anything that holds the IDataConnections 
+        /// </summary>
+        public static List<IDataConnection> Connections { get; private set; } = new List<IDataConnection>();
 
         public static void InitializeConnections(bool database, bool textFiles)
         {
             if (database)
             {
-                // create the SQL connection 
+                // TODO - set up the SQL connector properly
+                SqlConnector sql = new SqlConnector();
+                Connections.Add(sql);
+
             }
 
             if (textFiles)
             {
-                // create the textfile connection 
+                // TODO - create the textfile connection
+                TextConnection text = new TextConnection();
+                Connections.Add(text); 
             }
         }
     }
