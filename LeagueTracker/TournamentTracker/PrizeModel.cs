@@ -9,6 +9,11 @@ namespace TournamentTracker
 {
     internal class PrizeModel
     {
+        /// <summary>
+        ///  The prize model  with its unique ID
+        /// </summary>
+        public int Id { get; set; }
+
         /// The position number of the team
         public int PlaceNumber { get; set; }
 
