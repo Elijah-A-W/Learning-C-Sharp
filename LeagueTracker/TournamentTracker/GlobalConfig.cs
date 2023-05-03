@@ -21,7 +21,6 @@ namespace TournamentTracker
                 // TODO - set up the SQL connector properly
                 SqlConnector sql = new SqlConnector();
                 Connections.Add(sql);
-
             }
 
             if (textFiles)
