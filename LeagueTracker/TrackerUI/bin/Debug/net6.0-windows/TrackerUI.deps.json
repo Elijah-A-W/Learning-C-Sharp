@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TrackerUI/1.0.0": {
+        "dependencies": {
+          "TournamentTracker": "1.0.0"
+        },
+        "runtime": {
+          "TrackerUI.dll": {}
+        }
+      },
+      "TournamentTracker/1.0.0": {
+        "runtime": {
+          "TournamentTracker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TrackerUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TournamentTracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

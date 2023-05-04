@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TournamentTracker
 {
-    internal class PrizeModel
+    public class PrizeModel
     {
         /// <summary>
         ///  The prize model  with its unique ID
@@ -18,7 +18,7 @@ namespace TournamentTracker
         public int PlaceNumber { get; set; }
 
         /// The name of the position obtained [ Winner / 2ndRunnersUp / 3rdRunnersUp]
-        public string PlaceName { get; set; }
+        public string? PlaceName { get; set; }
 
         /// The amount that has been won in cash
         public decimal PrizeAmount { get; set; }
