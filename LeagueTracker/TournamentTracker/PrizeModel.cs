@@ -34,7 +34,7 @@ namespace TournamentTracker
 
 
         // Using overlapping constructor to hlep handle the
-        // different data formats
+        // different data types as data exchanges 
         public PrizeModel(string placeName, string placeNumber, string prizeAmount, string prizePercentage)
         {
             PlaceName = placeName;
@@ -47,6 +47,10 @@ namespace TournamentTracker
             decimal prizeAmountValue = 0;
             decimal.TryParse(prizeAmount, out  prizeAmountValue);
             PrizeAmount = prizeAmountValue;
+
+            double prizePercentageValue = 0;
+            double.TryParse(prizePercentage, out prizePercentageValue);
+            PrizePercentage = prizePercentageValue;
         }
     }
 }
