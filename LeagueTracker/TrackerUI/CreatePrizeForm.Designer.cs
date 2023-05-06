@@ -73,7 +73,6 @@
             placeNumberValue.Name = "placeNumberValue";
             placeNumberValue.Size = new Size(152, 30);
             placeNumberValue.TabIndex = 2;
-            placeNumberValue.TextChanged += placeNumberValue_TextChanged;
             // 
             // prizeAmountValue
             // 
@@ -84,6 +83,7 @@
             prizeAmountValue.Name = "prizeAmountValue";
             prizeAmountValue.Size = new Size(152, 30);
             prizeAmountValue.TabIndex = 4;
+            prizeAmountValue.Text = "0";
             // 
             // prizeAmountLabel
             // 
@@ -126,6 +126,7 @@
             prizePercentageValue.Name = "prizePercentageValue";
             prizePercentageValue.Size = new Size(152, 30);
             prizePercentageValue.TabIndex = 8;
+            prizePercentageValue.Text = "0";
             // 
             // placeNameLabel
             // 
