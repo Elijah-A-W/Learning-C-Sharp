@@ -73,6 +73,7 @@
             placeNumberValue.Name = "placeNumberValue";
             placeNumberValue.Size = new Size(152, 30);
             placeNumberValue.TabIndex = 2;
+            placeNumberValue.TextChanged += placeNumberValue_TextChanged;
             // 
             // prizeAmountValue
             // 
@@ -166,6 +167,7 @@
             createPrizeButton.TabIndex = 10;
             createPrizeButton.Text = "Create Prize";
             createPrizeButton.UseVisualStyleBackColor = false;
+            createPrizeButton.Click += createPrizeButton_Click;
             // 
             // CreatePrizeForm
             // 
