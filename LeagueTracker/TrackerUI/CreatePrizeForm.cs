@@ -23,19 +23,44 @@ namespace TrackerUI
 
         }
 
+
+
         private void createPrizeButton_Click(object sender, EventArgs e)
         {
-            if (ValidateForm)
+            // passing the data to the PrizeModel incase its valid--//
+
+            // IF form is valid 
+            if (ValidateForm())
             {
-                PrizeModel model = new PrizeModel();
+                // pass the data to the PrizeModel
+                PrizeModel model = new PrizeModel(
+                    placeNameValue.Text,
+                    placeNumberValue.Text,
+                    prizeAmountValue.Text,
+                    prizePercentageValue.Text);
 
-                model.PlaceName = placeNameValue.Text;
-                model.PlaceNumber = placeNumberValue.Text;
+                // for each of the storage types in the list Connections
+                foreach (IDataConnection db in GlobalConfig.Connections)
+                {
+                    // create a Prize model
+                    db.CreatePrize(model);
+                }
 
-
+                // Pass empty value strings the form 
+                // when its done submitting data to the storage types.
+                placeNameValue.Text = " ";
+                placeNumberValue.Text = " ";
+                prizeAmountValue.Text = "0";
+                prizePercentageValue.Text = "0";
+            }
+            else
+            {
+                // Display this message incase of invalid form
+                MessageBox.Show("This form has invalid data Please correct");
             }
 
         }
+
 
         private bool ValidateForm()
         {
@@ -65,7 +90,7 @@ namespace TrackerUI
 
             bool prizeAmountValid = decimal.TryParse(
                 prizeAmountValue.Text, out prizeAmount);
-            bool prizePercentageValid =double.TryParse(
+            bool prizePercentageValid = double.TryParse(
                 prizePercentageValue.Text, out prizePercentage);
 
 
