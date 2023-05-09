@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
 
-namespace TournamentTracker
+namespace TournamentTracker.Models
 {
     internal class MatchupEntryModel
     {

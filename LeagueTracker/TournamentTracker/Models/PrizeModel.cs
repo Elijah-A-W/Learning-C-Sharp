@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TournamentTracker
+namespace TournamentTracker.Models
 {
     public class PrizeModel
     {
@@ -27,10 +27,10 @@ namespace TournamentTracker
         public double PrizePercentage { get; set; }
 
 
-        public PrizeModel() 
+        public PrizeModel()
         {
 
-        } 
+        }
 
 
         // Using overlapping constructor to hlep handle the
@@ -38,14 +38,14 @@ namespace TournamentTracker
         public PrizeModel(string placeName, string placeNumber, string prizeAmount, string prizePercentage)
         {
             PlaceName = placeName;
-            
+
             int placeNumberValue = 0;
             int.TryParse(placeNumber, out placeNumberValue);
             PlaceNumber = placeNumberValue;
 
 
             decimal prizeAmountValue = 0;
-            decimal.TryParse(prizeAmount, out  prizeAmountValue);
+            decimal.TryParse(prizeAmount, out prizeAmountValue);
             PrizeAmount = prizeAmountValue;
 
             double prizePercentageValue = 0;

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TournamentTracker
+namespace TournamentTracker.Models
 {
     /// <summary>
     /// Represents one match in the tournament
@@ -19,6 +19,6 @@ namespace TournamentTracker
 
         /// The round this match is part of
         public int MatchupRound { get; set; }
-    
+
     }
 }
