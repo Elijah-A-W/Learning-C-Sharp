@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TournamentTracker.Models;
 
-namespace TournamentTracker
+namespace TournamentTracker.DataAccess
 {
     public class SqlConnector : IDataConnection
     {
@@ -16,7 +16,7 @@ namespace TournamentTracker
         /// <param name="model"> The Prize information </param>
         /// <returns> The prize information including e Unique Identifier </returns>
         /// <exception cref="NotImplementedException"></exception>
-        
+
         PrizeModel IDataConnection.CreatePrize(PrizeModel model)
         {
             model.Id = 1;

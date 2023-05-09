@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TournamentTracker.Models;
 
-namespace TournamentTracker
+namespace TournamentTracker.DataAccess
 {
     public interface IDataConnection
     {
@@ -15,7 +15,7 @@ namespace TournamentTracker
         /// </summary>
         /// <param name="model"></param>
         /// <returns></returns>
-        
+
         PrizeModel CreatePrize(PrizeModel model);
     }
 }

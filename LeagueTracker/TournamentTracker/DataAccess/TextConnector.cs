@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using TournamentTracker.Models;
 
-namespace TournamentTracker
+namespace TournamentTracker.DataAccess
 {
-    public class TextConnection : IDataConnection
+    public class TextConnector : IDataConnection
     {
         // Actionalize the createPrize method for the text files
         PrizeModel IDataConnection.CreatePrize(PrizeModel model)
