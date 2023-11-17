@@ -1,0 +1,17 @@
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.deps.json
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.runtimeconfig.json
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.dll
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\bin\Debug\net6.0\EntityFramework.Data.pdb
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\bin\Debug\net6.0\EntityFrameworkCore.Domain.dll
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\bin\Debug\net6.0\EntityFrameworkCore.Domain.pdb
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.csproj.AssemblyReference.cache
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.AssemblyInfoInputs.cache
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.AssemblyInfo.cs
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.csproj.CoreCompileInputs.cache
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.csproj.CopyComplete
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.dll
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\obj\Debug\net6.0\refint\EntityFramework.Data.dll
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.pdb
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\obj\Debug\net6.0\EntityFramework.Data.genruntimeconfig.cache
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFramework.Data\obj\Debug\net6.0\ref\EntityFramework.Data.dll

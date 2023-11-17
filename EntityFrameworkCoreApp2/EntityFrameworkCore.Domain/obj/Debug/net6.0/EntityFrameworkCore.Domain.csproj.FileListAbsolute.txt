@@ -1,0 +1,11 @@
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFrameworkCore.Domain\bin\Debug\net6.0\EntityFrameworkCore.Domain.deps.json
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFrameworkCore.Domain\bin\Debug\net6.0\EntityFrameworkCore.Domain.dll
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFrameworkCore.Domain\bin\Debug\net6.0\EntityFrameworkCore.Domain.pdb
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFrameworkCore.Domain\obj\Debug\net6.0\EntityFrameworkCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFrameworkCore.Domain\obj\Debug\net6.0\EntityFrameworkCore.Domain.AssemblyInfoInputs.cache
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFrameworkCore.Domain\obj\Debug\net6.0\EntityFrameworkCore.Domain.AssemblyInfo.cs
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFrameworkCore.Domain\obj\Debug\net6.0\EntityFrameworkCore.Domain.csproj.CoreCompileInputs.cache
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFrameworkCore.Domain\obj\Debug\net6.0\EntityFrameworkCore.Domain.dll
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFrameworkCore.Domain\obj\Debug\net6.0\refint\EntityFrameworkCore.Domain.dll
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFrameworkCore.Domain\obj\Debug\net6.0\EntityFrameworkCore.Domain.pdb
+D:\Project Series\C#_Projects\EntityFrameworkCoreApp2\EntityFrameworkCore.Domain\obj\Debug\net6.0\ref\EntityFrameworkCore.Domain.dll
